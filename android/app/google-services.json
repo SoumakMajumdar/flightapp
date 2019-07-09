@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "54312176508",
+    "firebase_url": "https://flightapp-6f189.firebaseio.com",
+    "project_id": "flightapp-6f189",
+    "storage_bucket": "flightapp-6f189.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54312176508:android:431c8b77372a71b9",
+        "android_client_info": {
+          "package_name": "com.soumak.flightapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54312176508-27c4rk7nm7al6p6fo43n8epjrnjisjjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soumak.flightapp",
+            "certificate_hash": "986295b48e0a72604f0b640164e53f3551de9853"
+          }
+        },
+        {
+          "client_id": "54312176508-pf0vpmcs7nu8c7vcolqsfim8dn5qnp7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANCb2Sj5nVjZ7l96V-jY0SuwLl3pOANX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54312176508-pf0vpmcs7nu8c7vcolqsfim8dn5qnp7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
